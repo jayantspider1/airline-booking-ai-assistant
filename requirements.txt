@@ -1,0 +1,13 @@
+openai
+pandas
+numpy
+python-dotenv
+jupyter
+notebook
+ipykernel
+matplotlib
+scikit-learn
+faiss-cpu
+sentence-transformers
+gradio
+tqdm
